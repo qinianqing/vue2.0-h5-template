@@ -1,1 +1,3 @@
-module.exports = {};
+module.exports = {
+  title: `毛肚火锅专家`,
+};
